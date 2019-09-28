@@ -1,2 +1,2 @@
 #lab3
-Added link to html file: https://github.com/sweber15/Lab3DSCI521/blob/master/Q2-0-0_Time-and-Temp.html
+Added link to html file: https://github.com/sweber15/Lab3DSCI521/blob/master/q2-0-0_time-and-temp.html
